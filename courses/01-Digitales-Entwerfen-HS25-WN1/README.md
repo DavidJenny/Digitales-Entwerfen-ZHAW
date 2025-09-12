@@ -1,1 +1,1 @@
-# WN1 Digitales Entwerfen HS25
+# Digitales Entwerfen HS25, WN1 
