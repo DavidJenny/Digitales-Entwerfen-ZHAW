@@ -1,1 +1,3 @@
-# empty readme
+# Digitales Entwerfen HS25, WN1 
+
+[Kursposter](../../docs/WN1-DigitalesEntwerfen_HS25.pdf)
