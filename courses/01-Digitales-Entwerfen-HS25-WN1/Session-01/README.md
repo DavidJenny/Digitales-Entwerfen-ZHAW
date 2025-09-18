@@ -1,2 +1,2 @@
-# Session 1
-Course Introduction
+# Course Introduction
+
