@@ -1,5 +1,3 @@
-
-
 # Digitales Entwerfen, Tutorials
 
 ## Basic Rhino and Grasshopper Functions
