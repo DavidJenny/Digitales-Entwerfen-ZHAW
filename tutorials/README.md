@@ -3,12 +3,17 @@
 ## Basic Rhino and Grasshopper Functions
 ### Basic geometry
 
-test 1
-https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.mp4
-test 2
-[Basic geometry example](https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png)
-test 3
-<img src="https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png" width="1000">
+![Video test](https://youtu.be/klzmHvC3ktk)
+
+https://youtu.be/klzmHvC3ktk
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/abc123XYZ](https://youtu.be/klzmHvC3ktk?si=BAYwD8UH2XDL7J_N">
+</iframe>
+
+[![Test Video](https://img.youtube.com/vi/abc123XYZ/maxresdefault.jpg)](https://www.youtube.com/embed/abc123XYZ](https://youtu.be/klzmHvC3ktk?si=BAYwD8UH2XDL7J_N))
 
 
 - Move and Copy
