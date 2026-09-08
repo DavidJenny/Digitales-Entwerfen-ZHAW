@@ -3,8 +3,7 @@
 ## Basic Rhino and Grasshopper Functions
 
 tutorials/00_media/basic geometry.mp4
-Basic geometry example: [tutorials/00_media/basic geometry.mp4](#sample-section).
-
+Basic geometry example: [Basic geometry video](https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/edit/main/tutorials/00_media/basic geometry.mp4).
 
 
 - Move and Copy
