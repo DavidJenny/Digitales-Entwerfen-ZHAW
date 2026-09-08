@@ -2,6 +2,10 @@
 
 ## Basic Rhino and Grasshopper Functions
 
+Basic geometry example: [tutorials/00_media/basic geometry.mp4](#sample-section).
+
+
+
 - Move and Copy
 - Arrays
 - Vectors and Planes
