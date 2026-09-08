@@ -4,6 +4,9 @@
 ### Basic geometry
 
 [Basic geometry example](https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png)
+<img src="https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png" width="1000">
+
+
 - Move and Copy
 - Arrays
 - Vectors and Planes
