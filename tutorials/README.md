@@ -3,7 +3,7 @@
 ## Basic Rhino and Grasshopper Functions
 ### Basic geometry
 
-[Basic geometry video](https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.mp4)
+https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.mp4
 [Basic geometry example](https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png)
 <img src="https://github.com/DavidJenny/Digitales-Entwerfen-ZHAW/blob/main/tutorials/assets/Basic_geometry.png" width="1000">
 
