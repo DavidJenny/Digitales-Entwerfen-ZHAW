@@ -8,9 +8,7 @@
 
 ### Basic geometry
 https://github.com/user-attachments/assets/110f596e-bd3a-4994-a6da-de940fd66e01
-
-<img width="32000" height="18000" alt="Basic_geometry" src="https://github.com/user-attachments/assets/edab8312-30bb-4117-bef9-b98850183407" />
-[Examples basic geometry](https://github.com/user-attachments/assets/edab8312-30bb-4117-bef9-b98850183407)
+<img width="32000" height="18000" alt="Basic_geometry" src="https://github.com/user-attachments/assets/aa4a267f-94ec-47f4-b6f4-a81e74443bb6" />
 
 - Move and Copy
 - Arrays
