@@ -1,4 +1,4 @@
-# Kursunterlagen
+# Kursunterlagen / Course Documentation
 
 01. Digitales Entwerfen, W-N1, Wahlpflichtmodul HS25 
 02. marblewood, Winterschool, 2026 
